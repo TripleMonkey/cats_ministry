@@ -1,0 +1,24 @@
+# Dependency directories
+node_modules/
+
+# Build artifacts and compiled output
+/dist/
+/build/
+*.min.css
+*.min.js
+*.map
+
+# Editor and OS specific files
+.DS_Store
+.vscode/
+.idea/
+*.sublime-workspace
+Thumbs.db
+
+# Logs and temporary files
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
